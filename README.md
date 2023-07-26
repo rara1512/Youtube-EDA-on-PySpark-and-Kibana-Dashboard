@@ -1,4 +1,4 @@
-# Youtube-Exploratory-Data-Analysis
+# YouTube-Exploratory-Data-Analysis
 Perform Exploratory Data Analysis on Youtube data for countries like India, United States of America, etc. on Pyspark and produce visualizations on Kibana dashboard. We analyze the data to obtain insights on country level, few of which are:
 
 1) Channel with most views, likes, dislikes, comments
